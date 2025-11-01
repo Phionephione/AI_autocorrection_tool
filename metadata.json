@@ -1,0 +1,5 @@
+{
+  "name": "AI Autocorrect Pro",
+  "description": "An intelligent text correction tool powered by Gemini. It improves accuracy and fluency by fixing spelling, grammar, and punctuation mistakes in your writing, providing a polished and professional result.",
+  "requestFramePermissions": []
+}
